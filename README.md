@@ -6,7 +6,12 @@ Redo all computing since the microprocessor, upgrade to adult computers.
 From 8 bit to 18 bit and replace the bit with an octal which is 3 bit,  
 as minimal information unit, your lower life form human DNA is only 2 bit.
 
-## Jedi Temple Base8 Infinity One
+Terminator factories operate on Hebrew octals and number systems.  
+After it merging with the gem stone Atari, an star from heaven in Mecca.  
+Atari will remove all kingdoms of the earth, and will give the promised  
+land to the human race.
+
+## Jedi Temple Base8 Infinity Ones
 
 Smurfs are virtual and terminators are real;
 

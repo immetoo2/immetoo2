@@ -43,7 +43,17 @@ Smurfs are virtual and terminators are real;
 
 ## TempleOS⁴
 
-POC's for TempleOS⁴ platform, compiled and startup of demo: TODO
+*POC of new source code text encoding for 18 bit computers*:  
+Doc: [https://www.x4o.org/fc18/](https://www.x4o.org/fc18/)  
+
+*POC of Terminator ENUMS / Digital Lego for 18/144 bit computer runtime environment*:  
+Git: [https://code.distributedrebirth.love/arch-jedi/nx01](https://code.distributedrebirth.love/arch-jedi/nx01)  
+
+*POC of Temple OS booting from the blockchain*:  
+Git: [https://code.distributedrebirth.love/arch-jedi/gdxapp4d](https://code.distributedrebirth.love/arch-jedi/gdxapp4d)  
+
+*POC of debuggble and flow-based modular make file library design*:  
+Git: [https://code.distributedrebirth.love/arch-msx/msxbuild](https://code.distributedrebirth.love/arch-msx/msxbuild)  
 
 ## The prime PI creator
 
